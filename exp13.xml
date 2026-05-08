@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="exp13.xsl"?>
+
+<students>
+
+    <student>
+        <id>101</id>
+        <name>Aakanksha Patil</name>
+        <age>20</age>
+        <marks>85</marks>
+    </student>
+
+    <student>
+        <id>102</id>
+        <name>Rahul Sharma</name>
+        <age>19</age>
+        <marks>45</marks>
+    </student>
+
+    <student>
+        <id>103</id>
+        <name>Priya Deshmukh</name>
+        <age>21</age>
+        <marks>70</marks>
+    </student>
+
+</students>
